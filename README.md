@@ -3,7 +3,7 @@ I'm a full-stack developer from the Netherlands with a passion for programming a
 <br>
 <br>
 I believe that the vast amount of data that's available nowadays is of invaluable importance to decision-making.
-These can concern a multi million investment, what shows you get recommended on Netflix or 
+Whether the decision concern a multi million investment, what shows you get recommended on Netflix or 
 where to best buy those plane-tickets; data can improve decisions in virtually all facets of life.
 
 Data without a goal, however, is like a jerrycan of gasoline. It can help you do many things
