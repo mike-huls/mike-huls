@@ -34,6 +34,6 @@ https://mikehuls.medium.com
 <br>
 <br>
 
-#####test P.s: like what I do?
+P.s: like what I do?
 
 [![Foo](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/mikehuls/)
