@@ -30,8 +30,7 @@ Docker images, pipelines, CI/CD processes and many more.
 https://mike-huls.github.io
 https://mikehuls.medium.com
 
-<hr>
-<br>
-<br>
-###### P.s: like what I do?
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/mikehuls)
+<br><br>
+#####test P.s: like what I do?
+
+[![Foo](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/mikehuls/)
