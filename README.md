@@ -24,13 +24,14 @@ Follow me on Medium, Twitter or LinkedIn:
 In the past couple of years I've worked with a wide range of technologies, ranging from 
 backend programming to creating UI's, machine learning models, mobile apps, databases, 
 Docker images, pipelines, CI/CD processes and many more.
-<br>Many of my experiments,  
+<br>I share many of my experiments, failures and successes in the form of tutorials.
+ Check out the site below and my Medium profile!
 
-https://mike-huls.github.io/
+https://mike-huls.github.io
+https://mikehuls.medium.com
 
-<br>Check out my medium profile for all of my programming articles.  
-
-
-
+<hr>
+<br>
+<br>
 ###### P.s: like what I do?
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/mikehuls)
