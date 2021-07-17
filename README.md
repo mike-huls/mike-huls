@@ -28,9 +28,12 @@ Docker images, pipelines, CI/CD processes and many more.
  Check out the site below and my Medium profile!
 
 https://mike-huls.github.io
+<br>
 https://mikehuls.medium.com
 
-<br><br>
+<br>
+<br>
+
 #####test P.s: like what I do?
 
 [![Foo](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/mikehuls/)
