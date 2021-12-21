@@ -27,7 +27,7 @@ Docker images, pipelines, CI/CD processes and many more.
 <br>I share many of my experiments, failures and successes in the form of tutorials.
  Check out the site below and my Medium profile!
 
-https://mike-huls.github.io
+https://mikehuls.com
 <br>
 https://mikehuls.medium.com
 
