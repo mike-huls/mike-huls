@@ -1,16 +1,6 @@
 ### Hi, I'm Mike!
 I'm a full-stack developer from the Netherlands with a passion for programming and traveling.
 <br>
-<br>
-I believe that the vast amount of data that's available nowadays is of invaluable importance to decision-making.
-Whether the decision concern a multi million investment, what shows you get recommended on Netflix or 
-where to best buy those plane-tickets; data can improve decisions in virtually all facets of life.
-
-Data without a goal, however, is like a jerrycan of gasoline. It can help you do many things
-but it's not of any use on its own. 
-Like gasoline needs a car, data needs a goal to be used for; to explore, clearify and substantiate in order to
-improve your decision-making. It is my goal to create software that makes data actionable.
-It helps people to see, understand, use and improve their decision-making with data. 
 
 
 ## Writing
