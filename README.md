@@ -8,10 +8,6 @@ I like to share my adventures, experiments, failures and successes by writing ar
 <b> [https://mikehuls.com](https://mikehuls.com/articles) </b>  
 and  
 <b> [https://mikehuls.medium.com](https://mikehuls.medium.com) </b>
-#### Latest articles
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@mikehuls/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@mikehuls/0" alt="Recent Article 0"></a>
-<br> <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@mikehuls/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@mikehuls/1" alt="Recent Article 1"></a>
-<br> <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@mikehuls/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@mikehuls/2" alt="Recent Article 2"></a> <br>
 
 
 ## Get in touch 
