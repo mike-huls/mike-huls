@@ -1,12 +1,8 @@
 ### Hi, I'm Mike
 Join me on my quest of becoming a better programmer.
+I'm a developer from the Netherlands with a passion for programming. My bread and butter consists mostly of Python, SQL, and Docker but I work, tweak and experiment with all kinds of techniques, tools and frameworks; frontend, backend and everything in between.
 
-I'm a developer from the Netherlands with a passion for programming and traveling. 
-My bread and butter consists mostly of Python, SQL, and Docker but I work, tweak and experiment with all kinds of techniques, tools and frameworks; frontend, backend and everything inbetween.
-
-I like to write about interesting techniques, system architecture, and thoughtful approaches to software design, among many other topics. 
-My focus isn’t just on making things work but on truly understanding why they work, how they fit into the context and how to apply them. 
-
+I like to write about interesting things I com across, techniques, system architecture, and thoughtful approaches to software design, among many other topics. My focus isn’t just on making things work but on truly understanding why they work, how they fit into the context and how to apply them in the best way.
 
 Read all about my adventures, experiments, failures and successes at:  
 [<img align="center" alt="mikehuls.com" src="https://img.shields.io/badge/mikehuls.com-%231a9988.svg?&style=for-the-badge&logo=personal&logoColor=white" />](https://twitter.com/Mike_Huls)
